@@ -1,0 +1,17 @@
+[
+  {
+    "id": "todo_1",
+    "title": "Learn Next.js",
+    "completed": false
+  },
+  {
+    "id": "todo_2",
+    "title": "Build Vangrex mapper",
+    "completed": true
+  },
+  {
+    "id": "todo_3",
+    "title": "Experiment with Playwright",
+    "completed": false
+  }
+]
